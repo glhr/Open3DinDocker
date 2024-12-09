@@ -12,3 +12,7 @@ CUDA\ Samples
 .bash_history
 .pki 
 .local 
+
+.ssh/
+.devcontainer/devcontainer.json
+.dotnet/
